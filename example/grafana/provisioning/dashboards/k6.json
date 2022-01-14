@@ -1386,19 +1386,6 @@
       ],
       "title": "HTTP",
       "type": "row"
-    },
-    {
-      "collapsed": false,
-      "gridPos": {
-        "h": 1,
-        "w": 24,
-        "x": 0,
-        "y": 23
-      },
-      "id": 30,
-      "panels": [],
-      "title": "default",
-      "type": "row"
     }
   ],
   "refresh": false,
